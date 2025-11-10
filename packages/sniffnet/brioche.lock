@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "alsa_lib": "91b8ab58833c716eb1cf7639be823df7dfba8631f4fe39b08984f8cd31fb59b7",
-    "libpcap": "ca75c7881adeac93a05b7188e7a35d6acdb361636250fa5b83c03c7acba1a7d2",
-    "rust": "662ce9f86b5e76f93e10d3ded138c151e9ecf7712fb68d8e96973232e0d1ca8f",
-    "std": "0aba0ceccaa76b989badef4c82178993f9a74e992b4f13b366174af58ce64aaf"
+    "alsa_lib": "77208ef5b4a0147eb52c92028cfc3f7aab2075ec91ecdb64a65e62f1f2a00f87",
+    "libpcap": "fdd02fc5f8cd46575cd26009b8d1f67a4bbd32f7891f21b76f567024b4fd012e",
+    "rust": "db8d717cc865a6b8ed4b9a818fba26a1bdc5d9b3ba12e12f99f1b444904b676c",
+    "std": "aaa106fdfb4b36b05f92a6c4768a51181c89c37535b7875c20c77ed18721c823"
   },
   "git_refs": {
     "https://github.com/GyulyVGC/sniffnet.git": {
-      "v1.4.0": "069a7bd314483e7639c7078d47c77a9308832715"
+      "v1.4.2": "142ed3f98a3b41fd8407bd8f2b783f07117aeeab"
     }
   }
 }
